@@ -1,4 +1,4 @@
-User 1 modified line 1
-   Initial content line 2
-   User 1 added new line here
+Initial content line 1
+   User 2 modified line 2
    Initial content line 3
+   User 2 added different line here
