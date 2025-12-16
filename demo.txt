@@ -1,0 +1,4 @@
+User 1 modified line 1
+   Initial content line 2
+   User 1 added new line here
+   Initial content line 3
